@@ -1,0 +1,30 @@
+lastAccountName: GamingPanthers
+timestamps:
+  login: 1619075161582
+  lastteleport: 1619076440953
+  logout: 1619077010819
+ipAddress: 120.158.72.9
+lastlocation:
+  world: world
+  x: 718.85431126393
+  y: 96.22715358373165
+  z: -654.3984184024638
+  yaw: 223.68658
+  pitch: 27.299679
+logoutlocation:
+  world: world
+  x: 744.1676992960973
+  y: 96.49869069495632
+  z: -668.5936267363006
+  yaw: 166.09898
+  pitch: 15.749516
+money: '136.729999999999987'
+afk: false
+homes:
+  home:
+    world: world
+    x: 766.8232410780917
+    y: 78.0
+    z: -648.0524513104563
+    yaw: 250.98135
+    pitch: 9.149685

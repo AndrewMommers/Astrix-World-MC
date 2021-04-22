@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "28cbb00a-af6a-49cd-bf53-cf939a702971",
+    "name": "TYC_Index",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "30766f88-54a7-442c-83d0-5421596063f3",
+    "name": "jonowono",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ea595a1c-28f6-4a97-b587-f1f95afea06c",
+    "name": "GamingPanthers",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,126 @@
+[01:37:06] [Craft Scheduler Thread - 37/INFO]: [Vault] Checking for Updates ... 
+[01:37:07] [Craft Scheduler Thread - 37/INFO]: [Vault] No new version available
+[07:37:06] [Craft Scheduler Thread - 38/INFO]: [Vault] Checking for Updates ... 
+[07:37:07] [Craft Scheduler Thread - 38/INFO]: [Vault] No new version available
+[09:35:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@74c74c7d[id=<null>,name=2RtR7SCoF,properties={},legacy=false] (/40.88.39.138:58784) lost connection: Timed out
+[13:37:06] [Craft Scheduler Thread - 39/INFO]: [Vault] Checking for Updates ... 
+[13:37:07] [Craft Scheduler Thread - 39/INFO]: [Vault] No new version available
+[14:30:58] [User Authenticator #11/INFO]: UUID of player LolnessgirlHtur is 5a4c3572-f7e1-4b07-baab-e661215110a1
+[14:30:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@78c0db5a[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@71d27e93]},legacy=false] (/1.120.167.85:65498): You are not white-listed on this server!
+[14:30:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@78c0db5a[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@71d27e93]},legacy=false] (/1.120.167.85:65498) lost connection: You are not white-listed on this server!
+[14:31:45] [User Authenticator #12/INFO]: UUID of player LolnessgirlHtur is 5a4c3572-f7e1-4b07-baab-e661215110a1
+[14:31:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7c740e80[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@3dac625f]},legacy=false] (/1.120.167.85:65508): You are not white-listed on this server!
+[14:31:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c740e80[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@3dac625f]},legacy=false] (/1.120.167.85:65508) lost connection: You are not white-listed on this server!
+[14:37:04] [User Authenticator #13/INFO]: UUID of player LolnessgirlHtur is 5a4c3572-f7e1-4b07-baab-e661215110a1
+[14:37:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@34e70b15[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@20f4231d]},legacy=false] (/1.120.167.85:49418): You are not white-listed on this server!
+[14:37:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@34e70b15[id=5a4c3572-f7e1-4b07-baab-e661215110a1,name=LolnessgirlHtur,properties={textures=[com.mojang.authlib.properties.Property@20f4231d]},legacy=false] (/1.120.167.85:49418) lost connection: You are not white-listed on this server!
+[17:06:00] [User Authenticator #14/INFO]: UUID of player GamingPanthers is ea595a1c-28f6-4a97-b587-f1f95afea06c
+[17:06:01] [Server thread/INFO]: GamingPanthers[/120.158.72.9:65086] logged in with entity id 40034 at ([world]744.1676992960973, 96.49869069495632, -668.5936267363006)
+[17:06:52] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere lava
+[17:07:42] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:43] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:44] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:45] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:46] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:47] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:07:47] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:08:40] [Server thread/INFO]: GamingPanthers issued server command: /time set night
+[17:10:52] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere sand
+[17:11:16] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere sand 5
+[17:12:06] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:07] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:07] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:08] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:08] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:09] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:09] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:10] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:10] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:11] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:11] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:12] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:12] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:13] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:13] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:14] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:14] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:15] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:15] [Server thread/INFO]: GamingPanthers issued server command: /undo
+[17:12:29] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere stone
+[17:12:47] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere grass_block
+[17:12:53] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere sand 5
+[17:13:49] [Server thread/INFO]: GamingPanthers issued server command: //brush cylinder sand 5
+[17:15:33] [Server thread/INFO]: GamingPanthers issued server command: //pos1
+[17:15:45] [Server thread/INFO]: GamingPanthers issued server command: //pos2
+[17:15:57] [Server thread/INFO]: GamingPanthers issued server command: //replace sand grass_block
+[17:20:48] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere 20%31:1,20%31:2,60%air6
+[17:20:55] [Server thread/INFO]: GamingPanthers issued server command: /mask > 2
+[17:20:57] [Server thread/INFO]: GamingPanthers issued server command: /mask 2
+[17:21:00] [Server thread/INFO]: GamingPanthers issued server command: /mask 2
+[17:21:11] [Server thread/INFO]: GamingPanthers issued server command: //brush sphere 20%31:1,20%31:2,60%air6
+[17:21:39] [Server thread/INFO]: GamingPanthers issued server command: /mask 0
+[17:21:45] [Server thread/INFO]: GamingPanthers issued server command: /mask remove
+[17:21:55] [Server thread/INFO]: GamingPanthers issued server command: //brush cylinder sand 5
+[17:25:13] [Server thread/INFO]: GamingPanthers issued server command: //replace sand grass_block
+[17:25:41] [Server thread/INFO]: GamingPanthers issued server command: /sethome
+[17:25:44] [Server thread/INFO]: GamingPanthers issued server command: /spawn
+[17:25:59] [Server thread/INFO]: GamingPanthers issued server command: /setwarp Mt Ast
+[17:25:59] [pool-11-thread-1/INFO]: Creating empty config: C:\Users\Administrator\Desktop\Andrews-Crew\Astrix World\plugins\Essentials\warps\mt.yml
+[17:26:05] [Server thread/INFO]: GamingPanthers issued server command: /home
+[17:26:13] [Server thread/INFO]: GamingPanthers issued server command: /warp Spawn
+[17:27:20] [Server thread/INFO]: GamingPanthers issued server command: /home
+[17:29:27] [Server thread/INFO]: GamingPanthers issued server command: //pos1
+[17:29:33] [Server thread/INFO]: GamingPanthers issued server command: //pos2
+[17:29:37] [Server thread/INFO]: GamingPanthers issued server command: //replace sand grass_block
+[17:36:50] [Server thread/INFO]: GamingPanthers issued server command: /stop
+[17:36:50] [Server thread/INFO]: [GamingPanthers: Stopping the server]
+[17:36:50] [Server thread/INFO]: Stopping server
+[17:36:50] [Server thread/INFO]: [Jobs] Disabling Jobs v4.17.1
+[17:36:50] [Server thread/INFO]: [0;33;1m[Jobs] Saved 46 new explorer entries.[m
+[17:36:50] [Server thread/INFO]: [0;33;1m[Jobs] Updated 9 explorer entries.[m
+[17:36:50] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[17:36:50] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[17:36:50] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled successfully.[m
+[17:36:50] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.2.0
+[17:36:50] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v19.5
+[17:36:50] [Server thread/ERROR]: Error occurred while disabling CoreProtect v19.5 (Is it up to date?)
+java.lang.NoClassDefFoundError: Could not initialize class net.coreprotect.config.ConfigHandler
+	at net.coreprotect.CoreProtect.safeShutdown(CoreProtect.java:153) ~[?:?]
+	at net.coreprotect.CoreProtect.onDisable(CoreProtect.java:125) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:368) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:500) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:492) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.disablePlugins(CraftServer.java:423) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.stop(MinecraftServer.java:707) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.stop(DedicatedServer.java:635) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:847) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:155) ~[craftbukkit-1.16.5.jar:2991-Bukkit-f3f3094]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+[17:36:50] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[17:36:50] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[17:36:50] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.2.0
+[17:36:50] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[17:36:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[17:36:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.4+5723-e3bfc64
+[17:36:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:36:50] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:36:50] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.3
+[17:36:50] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:36:50] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:36:51] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:36:51] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:36:51] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:36:51] [Server thread/INFO]: Saving players
+[17:36:51] [Server thread/INFO]: GamingPanthers lost connection: Server closed
+[17:36:51] [Server thread/INFO]: GamingPanthers left the game
+[17:36:51] [Server thread/INFO]: Saving worlds
+[17:36:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
